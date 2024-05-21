@@ -1,4 +1,4 @@
-# Surgical-Navigation-Final-Project
+# Surgical Navigation Final Project
 This Github Repostory constitutes the presentation of the Final Project for the Surgical Navigation and Imaging class of the Master in Machine Learning for Health, UC3M. 
 The following README provides an explanation to the user in case they want to implement a version of this project. 
 
