@@ -58,13 +58,12 @@ Link the dropdown to a script that handles switching between tumor models.
 Create buttons for toggling the visibility of the bounding sphere and the surgical resection planes.
 Link these buttons to their respective functions in your script.
 
-Scripts
+2. Scripts
 Ensure that your main script (TumorBoxGenerator.cs) is properly linked to the UI elements and game objects in the scene.
 
-Example Folder Structure
+#### Example Folder Structure
 
-
-Assets/
+Assets
 ├── Resources/
 │   ├── Models/
 │   │   ├── bone_model.stl
@@ -76,6 +75,7 @@ Assets/
 │   ├── TumorBoxGenerator.cs
 │   └── (other scripts)
 └── (other folders)
+
 
 ### Final Steps
 1. Build and Run
