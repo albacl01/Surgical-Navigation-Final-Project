@@ -63,7 +63,7 @@ Ensure that your main script (TumorBoxGenerator.cs) is properly linked to the UI
 
 #### Example Folder Structure
 
-Assets
+Assets/
 ├── Resources/
 │   ├── Models/
 │   │   ├── bone_model.stl
