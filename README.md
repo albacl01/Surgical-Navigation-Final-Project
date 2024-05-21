@@ -61,21 +61,6 @@ Link these buttons to their respective functions in your script.
 2. Scripts
 Ensure that your main script (TumorBoxGenerator.cs) is properly linked to the UI elements and game objects in the scene.
 
-#### Example Folder Structure
-
-Assets:
-- Resources
--   Models
--       bone_model.stl
--       tumor_model1.obj
--       tumor_model2.obj
--       tumor_model3.obj
--   renfe_card.jpg
-- Scripts
--   TumorBoxGenerator.cs
--   (other scripts)
-- (other folders)
-
 
 ### Final Steps
 1. Build and Run
